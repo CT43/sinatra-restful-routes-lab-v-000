@@ -1,1 +1,2 @@
-#Placeholder for a model
+class User < ActiveRecord::Base 
+end 
